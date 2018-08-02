@@ -11,5 +11,10 @@ public class A1 {
 	{
 		
 	}
+	
+	public void conflict()
+	{
+		
+	}
 }
 

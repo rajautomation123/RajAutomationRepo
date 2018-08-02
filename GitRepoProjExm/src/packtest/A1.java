@@ -7,4 +7,9 @@ public class A1 {
 	{
 		
 	}
+	public void sampleconflict()
+	{
+		
+	}
 }
+
